@@ -1,0 +1,2 @@
+v1.0.0 (BUILD 2025112900)
+- First release of JoinGroup
