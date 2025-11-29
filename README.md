@@ -35,4 +35,4 @@ NB The groups MUST have group enrolment keys set up. To access group administrat
 
 
 ### Alternative Plugin
-An alternative plugin to JoinGroup is Nicolas Dunand's [mod_choicegroup](https://github.com/ndunand/moodle-mod_choicegroup) which does not require keys but does expose the list of groups in the course to the student.
+An alternative plugin to JoinGroup is Nicolas Dunand's [mod_choicegroup](https://github.com/ndunand/moodle-mod_choicegroup) which does not require group enrolment keys, students just choose from a list of groups.
