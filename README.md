@@ -8,16 +8,16 @@ It is useful when the enrolment method (e.g Stripe) does not support enroling st
 Unzip , or git clone the plugin into the Moodle site's "blocks" folder. The plugin folder should be called "joingroup" and it should contain files like lib.php and version.php. If those files are in a sub-folder, your folder structure is not correct.
 
 The only setting during installation is what to call "group" in the user interface. By default it is "Group" but the following options are also available:
--Teacher
--Instructor
--Class
--Team
--House
--Room
--Department
--Circle
--Company
--School
+- Teacher
+- Instructor
+- Class
+- Team
+- House
+- Room
+- Department
+- Circle
+- Company
+- School
 
 Finally, visit your site's *Site administration -> Plugins -> Blocks -> Manage Blocks" and enable "Join Group"*
 
