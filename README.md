@@ -1,7 +1,8 @@
 # JoinGroup block for Moodle
 
 This block allows the student to enter a group enrolment key to join a group.
-It is useful when the enrolment method (e.g Stripe) does not support enroling students into groups with a key.
+It is useful when the enrolment method (e.g Stripe) does not support enroling students into groups with a key. 
+[20s Demo Video](https://youtu.be/AV12_Nciwxc)
 
 ## Installation
 
