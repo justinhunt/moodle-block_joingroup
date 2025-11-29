@@ -19,7 +19,7 @@ The only setting during installation is what to call "group" in the user interfa
 - Company
 - School
 
-Finally, visit your site's *Site administration -> Plugins -> Blocks -> Manage Blocks" and enable "Join Group"*
+Finally, visit your site's *Site administration -> Plugins -> Blocks -> Manage Blocks* and enable "Join Group"
 
 
 ## Adding the Block to a Course
